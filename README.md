@@ -7,4 +7,4 @@ My personal contribution to this project was using embedded C to program the gam
 
 This project was made using the Freescale CodeWarrior integrated development environment (IDE). 
 
-The Project.c file includes all of the game logic. This code stores the moves in software and writes to the correct ports on the Dragon12 board. The powerpoint and report includes specific details about the project.
+The Project.c file includes all of the game logic. This code stores the moves in software and writes to the correct ports on the Dragon12 board. The Connect 4 zip file contains the report and powerpoint. The powerpoint and report includes specific details about the project. 
